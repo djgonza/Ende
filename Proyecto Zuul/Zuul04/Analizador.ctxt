@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Analizador()
+comment0.text=\r\n\ Crea\ el\ analizador\ para\ leer\ desde\ el\ terminal\ de\ texto.\r\n
+comment1.params=
+comment1.target=Orden\ getOrden()
+comment1.text=\r\n\ @return\ El\ siguiente\ comando\ del\ usuario.\r\n
+comment2.params=
+comment2.target=void\ mostrarComandos()
+comment2.text=\r\n\ \ \r\n
+numComments=3

@@ -1,0 +1,38 @@
+Bienvenido a Zuul
+Escribe 'ayuda' si necesitas ayuda.
+
+Estas en la entrada a la universidad
+Contenido: 
+Llave del cofre de 100 gramos.
+Agua envenenada de 5000 gramos.
+Lampara de aceite de 2000 gramos.
+
+Salidas:  este sur oeste
+> Estás perdido.
+
+Tus órdenes posibles son:
+ir salir ayuda ver comer volver 
+> No hay salida por esa dirección
+> Estas en un laboratorio
+Contenido: 
+Microscopio de 50 gramos.
+
+Salidas:  norte este
+> Ya ha comido y no tiene más hambre
+> Estas en un laboratorio
+Contenido: 
+Microscopio de 50 gramos.
+
+Salidas:  norte este
+> Estas en un despacho
+Contenido: 
+Cofre del tesoro de 40000 gramos.
+
+Salidas:  abajo oeste
+> Has vuelto a la habitación anterior
+Estas en un laboratorio
+Contenido: 
+Microscopio de 50 gramos.
+
+Salidas:  norte este
+> Gracias por jugar. Adiós

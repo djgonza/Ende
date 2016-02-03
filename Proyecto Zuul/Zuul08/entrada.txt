@@ -1,0 +1,8 @@
+ayuda
+ir arriba
+ir sur
+comer
+ver
+ir este
+volver
+salir

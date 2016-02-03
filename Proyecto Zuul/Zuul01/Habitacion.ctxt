@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=descripcion
+comment0.target=Habitacion(java.lang.String)
+comment0.text=\r\n\ Crea\ una\ habitaci\u00F3n\ inicialmente\ sin\ salidas.\r\n\ La\ descripci\u00F3n\ es\ algo\ as\u00ED\ como\ "laboratorio",\ "el\ bar"\r\n\ @param\ descripcion\ La\ descripci\u00F3n\ de\ la\ habitaci\u00F3n\r\n
+comment1.params=norte\ este\ sur\ oeste
+comment1.target=void\ setSalidas(Habitacion,\ Habitacion,\ Habitacion,\ Habitacion)
+comment1.text=\r\n\ Establece\ las\ salidas\ de\ la\ habitaci\u00F3n.\ Cada\ direcci\u00F3n\r\n\ conduce\ hacia\ una\ habitaci\u00F3n\ o\ es\ null\r\n\ \r\n\ @param\ norte\ La\ salida\ norte.\r\n\ @param\ este\ \ La\ salida\ este.\r\n\ @param\ sur\ \ \ La\ salida\ sur.\r\n\ @param\ oeste\ La\ salida\ oeste.\r\n
+comment2.params=direc
+comment2.target=Habitacion\ getSalida(java.lang.String)
+comment2.text=\r\n\ \ \r\n
+comment3.params=
+comment3.target=java.lang.String\ getDescripcion()
+comment3.text=\r\n\ @return\ La\ descripci\u00F3n\ de\ la\ habitaci\u00F3n.\r\n
+comment4.params=
+comment4.target=java.lang.String\ getStringDeSalidas()
+comment4.text=\r\n\ \ parte\ a\u00F1adida\ -\ 14/01/16\ \ \r\n
+numComments=5

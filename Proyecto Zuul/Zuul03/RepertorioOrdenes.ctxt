@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=RepertorioOrdenes()
+comment0.text=\r\n\ Constructor\ -\ inicializa\ las\ \u00F3rdenes\r\n
+comment1.params=cadena
+comment1.target=boolean\ esOrden(java.lang.String)
+comment1.text=\r\n\ Verifica\ si\ una\ cadena\ (String)\ dada\ es\ una\r\n\ palabra\ de\ comando\ v\u00E1lida.\ \r\n\ @return\ true\ Si\ la\ orden\ es\ v\u00E1lida\r\n\ false\ si\ no\ lo\ es\r\n
+numComments=2

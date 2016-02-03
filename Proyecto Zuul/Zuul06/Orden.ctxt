@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=primeraPalabra\ segundaPalabra
+comment0.target=Orden(java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Crea\ un\ objeto\ orden.\r\n\ Se\ proporciona\ la\ primera\ y\ segunda\ palabras\ del\ comando.\r\n\ Una\ o\ las\ dos\ pueden\ ser\ null.\r\n\ \r\n\ @param\ primeraPalabra\ \ \ La\ primera\ palabra\ del\ comando.\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Es\ null\ si\ no\ se\ reconoce\r\n\ @param\ segundaPalabra\ \ La\ segunda\ palabra\ del\ comando.\r\n
+comment1.params=
+comment1.target=java.lang.String\ getPalabraOrden()
+comment1.text=\r\n\ Devuelve\ la\ orden\ (primera\ palabra).\ Si\ el\ comando\ no\ se\r\n\ reconoce\ es\ null\r\n\ @return\ \ La\ palabra\ del\ comando.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getSegundaPalabra()
+comment2.text=\r\n\ @return\ La\ segunda\ palabra\ del\ comando.\r\n\ Devuelve\ null\ si\ no\ hay\ segunda\ palabra.\r\n
+comment3.params=
+comment3.target=boolean\ ordenDesconocida()
+comment3.text=\r\n\ @return\ true\ si\ la\ orden\ no\ se\ reconoce.\r\n
+comment4.params=
+comment4.target=boolean\ haySegundaPalabra()
+comment4.text=\r\n\ @return\ true\ si\ la\ orden\ tiene\ segunda\ palabra\r\n
+numComments=5
