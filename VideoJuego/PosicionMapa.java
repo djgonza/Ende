@@ -9,6 +9,7 @@ public class PosicionMapa
 {
      
     private int x;
+    private int y;
 
     /**
      * Constructor de la clase PosicionMapa

@@ -5,10 +5,12 @@
  * @author  
  * @version  
  */
-public class Entidad
+public class Entidad extends PosicionMapa
 {
      
-    private int x;
+    private int nivelEnergia;
+    private int numVidas;
+    private int capacidadOfensiva;
 
     /**
      * Constructor de la clase Entidad

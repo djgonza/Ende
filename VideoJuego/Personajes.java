@@ -5,10 +5,10 @@
  * @author  
  * @version  
  */
-public class Personajes extends Entidad implements Entidad
+public class Personajes extends Entidad
 {
      
-    private int x;
+    private Mochila mochila;
 
     /**
      * Constructor de la clase Personajes

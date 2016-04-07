@@ -5,7 +5,7 @@
  * @author  
  * @version  
  */
-public class Moviles extends Objetos
+public class Moviles extends PosicionMapa
 {
      
     private int x;

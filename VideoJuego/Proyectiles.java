@@ -1,19 +1,19 @@
 
 /**
- *  class Objetos  
+ *  class Proyectiles  
  * 
  * @author  
  * @version  
  */
-public class Objetos
+public class Proyectiles extends Moviles
 {
      
     private int x;
 
     /**
-     * Constructor de la clase Objetos
+     * Constructor de la clase Proyectiles
      */
-    public Objetos()
+    public Proyectiles()
     {
      
     }

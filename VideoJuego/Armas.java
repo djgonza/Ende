@@ -8,7 +8,8 @@
 public class Armas extends Moviles
 {
      
-    private int x;
+    private int energia;
+    private int potenciador;
 
     /**
      * Constructor de la clase Armas

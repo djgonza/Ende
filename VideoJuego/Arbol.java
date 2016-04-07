@@ -1,19 +1,19 @@
 
 /**
- *  class Enemigos  
+ *  class Arbol  
  * 
  * @author  
  * @version  
  */
-public class Enemigos extends Entidad
+public class Arbol extends inmoviles
 {
      
     private int x;
 
     /**
-     * Constructor de la clase Enemigos
+     * Constructor de la clase Arbol
      */
-    public Enemigos()
+    public Arbol()
     {
      
     }

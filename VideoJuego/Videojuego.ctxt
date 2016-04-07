@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Videojuego()
+comment0.text=\r\n\ Constructor\ de\ la\ clase\ Videojuego\r\n
+comment1.params=arma\ personaje
+comment1.target=void\ potenciarPersonaje(Armas,\ Personajes)
+comment1.text=\r\n\ \ \r\n
+numComments=2
